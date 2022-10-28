@@ -1,6 +1,4 @@
-                                                     =========================
-                                                     Hey y'all, my name is Yan
-                                                     =========================
+                                                   #Hey y'all, my name is Yan
                                                          
                                 I’m a Python programmer and interested in JavaScript and C++ programming
                                             I’m currently a Software Engineer Student
